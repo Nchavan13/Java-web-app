@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\Nilesh\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Nilesh\AppData\Local\Temp\surefire5127903596446239430\surefirebooter-20240825133233122_3.jar C:\Users\Nilesh\AppData\Local\Temp\surefire5127903596446239430 2024-08-25T13-32-32_942-jvmRun1 surefire-20240825133233122_1tmp surefire_0-20240825133233122_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Nilesh\AppData\Local\Temp\surefire17243053156749910624\surefirebooter-20240825155121390_3.jar C:\Users\Nilesh\AppData\Local\Temp\surefire17243053156749910624 2024-08-25T15-51-21_231-jvmRun1 surefire-20240825155121390_1tmp surefire_0-20240825155121390_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Nilesh\git\Java-web-app_local\CountrySelector-Docker\target\test-classes;C:\Users\Nilesh\git\Java-web-app_local\CountrySelector-Docker\target\classes;C:\Users\Nilesh\.m2\repository\jakarta\servlet\jakarta.servlet-api\5.0.0\jakarta.servlet-api-5.0.0.jar;C:\Users\Nilesh\.m2\repository\jakarta\servlet\jsp\jakarta.servlet.jsp-api\4.0.0\jakarta.servlet.jsp-api-4.0.0.jar;C:\Users\Nilesh\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Nilesh\AppData\Local\Temp\surefire5127903596446239430\surefirebooter-20240825133233122_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Nilesh\AppData\Local\Temp\surefire17243053156749910624\surefirebooter-20240825155121390_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+9"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="com.niltech.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.niltech.AppTest" time="0.002"/>
 </testsuite>
